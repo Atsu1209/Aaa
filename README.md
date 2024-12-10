@@ -30,3 +30,5 @@ BrainF*ckをもとに作っているので対応表があります。
 |`[`|`aaA`|
 |`]`|`aaa`|
 
+Made by StedTech-org
+©️2024-StedTech & Atsu1209/ AaaLang
