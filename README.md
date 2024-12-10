@@ -19,9 +19,6 @@ change.cpp: BrainF*ckから変換できます。
 # 対応表
 BrainF*ckをもとに作っているので対応表があります。  
 
-BrainFuckの対応表  
-BrainFuck:Aaalang  
-
 |Brainfuck|AAA|
 |:---:|:---:|
 |`>`|`AAA`|
