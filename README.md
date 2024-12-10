@@ -21,12 +21,15 @@ BrainF*ckをもとに作っているので対応表があります。
 
 BrainFuckの対応表  
 BrainFuck:Aaalang  
-`[	: aaA`  
-`> : AAA`  
-`<	: AAa`  
-`+	: AaA`  
-`-	: Aaa`  
-`.	: aAA`  
-`,	: aAa`  
-`]	: aaa`  
+
+|Brainfuck|AAA|
+|:---:|:---:|
+|`>`|`AAA`|
+|`<`|`AAa`|
+|`+`|`AaA`|
+|`-`|`Aaa`|
+|`.`|`aAA`|
+|`,`|`aAa`|
+|`[`|`aaA`|
+|`]`|`aaa`|
 
