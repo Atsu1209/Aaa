@@ -5,6 +5,10 @@ AaaLang BrainF*ckをベースにAAAと叫ぶことでプログラミングでき
 main.cpp:このcppファイルをコンパイルして実行することでAaaLangを使用できます。  
 change.cpp: BrainF*ckから変換できます。  
 
+# 使い方
+1.`git clone https://github.com/Atsu1209/Aaa.git`でクローン
+2.`g++`かなんかでコンパイル
+
 # 使い方(main.cpp)
 1.`code.aaaa` にコードを書く  
 2.main.cppをコンパイルする  
