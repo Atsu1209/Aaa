@@ -1,5 +1,5 @@
 # Aaa
-AaaLang BrainF*ckをベースにAAAと叫ぶことでプログラミングできる言語です。  
+AaaLangはBrainF*ckをベースに作ったAAAと叫ぶことでプログラミングできる言語です。  
 
 # ファイル
 main.cpp:このcppファイルをコンパイルして実行することでAaaLangを使用できます。  
