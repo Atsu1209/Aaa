@@ -20,6 +20,10 @@ change.cpp: BrainF*ckからAaaに変換できます。
 3.change.cppをコンパイル  
 4.実行  
 
+# Qiita記事
+
+[Qiita](https://qiita.com/Atsu1209jp/items/e0aa78bf627e9e54dc86 "Qiita記事")
+
 # 対応表
 BrainF*ckをもとに作っているので対応表があります。  
 
