@@ -6,7 +6,7 @@ main.cpp:このcppファイルをコンパイルして実行することでAaaLa
 change.cpp: BrainF*ckから変換できます。  
 
 # 使い方
-1.`git clone https://github.com/Atsu1209/Aaa.git`でクローン
+1.`git clone https://github.com/Atsu1209/Aaa.git`でクローン  
 2.`g++`かなんかでコンパイル
 
 # 使い方(main.cpp)
