@@ -22,7 +22,7 @@ change.cpp: BrainF*ckからAaaに変換できます。
 
 # Qiita記事
 
-[Qiita](https://qiita.com/Atsu1209jp/items/e0aa78bf627e9e54dc86 "Qiita記事")
+https://qiita.com/Atsu1209jp/items/e0aa78bf627e9e54dc86
 
 # 対応表
 BrainF*ckをもとに作っているので対応表があります。  
