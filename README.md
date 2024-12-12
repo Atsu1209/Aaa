@@ -43,4 +43,4 @@ BrainF*ckをもとに作っているので対応表があります。
 [MIT License](https://github.com/Atsu1209/Aaa/blob/main/LICENSE "MIT License")
 
 Made by StedTech-org  
-©️2024-StedTech & Atsu1209/ AaaLang
+©️2024-StedTech AaaLang
